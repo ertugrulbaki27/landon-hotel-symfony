@@ -1,0 +1,9 @@
+475e7f,127.0.0.1,GET,http://127.0.0.1:8000/,1486069018,,200
+5f45c9,127.0.0.1,GET,http://127.0.0.1:8000/guests,1486069029,,200
+b5dca0,127.0.0.1,GET,http://127.0.0.1:8000/guests,1486069078,,200
+4de733,127.0.0.1,GET,http://localhost:8000/,1576688663,,200
+d4fbf1,127.0.0.1,GET,http://localhost:8000/reservations,1576688666,,200
+99573f,127.0.0.1,GET,http://localhost:8000/guests,1576688668,,200
+64b1ab,127.0.0.1,GET,http://localhost:8000/guests/modify/0,1576688670,,200
+65b9c9,127.0.0.1,GET,http://localhost:8000/guests/modify/favicon.ico,1576688671,a2f31a,200
+a2f31a,127.0.0.1,GET,http://localhost:8000/guests/modify/favicon.ico,1576688671,,500
